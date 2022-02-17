@@ -1,0 +1,12 @@
+touch .gitignore 	//( use to ignore some folders)
+git config --global user.name "Shivam sharam"
+git config --global user.emial "shivam.piyush99@gmail.com"
+git init         	//( use to initialized empty git repository )
+git add .		//( use to add all file or folder in git repository)
+git commit -m "Initial commit" //( use to make first commit )
+git status 			//( use to check the status just to see )
+git remote add origin           //( mention here ssh key from github )
+ssh-keygen -t ed25519 -C "shivam.piyush99@gmail.com"
+tail <path to id_rsa.pub> #Add this key to your GitHub account 
+git remote add orign <ssh url.git>
+git push origin master
