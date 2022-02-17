@@ -1,0 +1,8 @@
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\bin\Debug\Arrays.exe
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\bin\Debug\Arrays.pdb
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\obj\Debug\Arrays.exe
+C:\Users\shiva\source\repos\ArraysAndLoops\Arrays\obj\Debug\Arrays.pdb
